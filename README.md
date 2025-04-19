@@ -1,5 +1,8 @@
 # Microsoft Net Framework ALL Version
 .NET Framework 1.x (obsoleto) tuvo dos versiones principales:
+
+Se recomienda que todo el desarrollo de nuevos productos utilice .NET 8 o posterior. Estas versiones más recientes de .NET son multiplataforma, admiten más tipos de aplicaciones y ofrecen un alto rendimiento.
+
 -----------------------------------------------------------------------------------------------
 2002 .NET Framework 1.0 (versión final: v1.0.3705) ---> 2003 Última actualización: v1.1.4322.573 (Service Pack 1 + parches de seguridad)
 
