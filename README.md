@@ -29,11 +29,13 @@ Se recomienda que todo el desarrollo de nuevos productos utilice .NET 8 o poster
 | 1.1 KB953297          | 2009  | Runtime       | x86            |   1.1.4322.2443 | [Retirado]           |
 | 2.0 Beta 1            | 2004  | Runtime       | x86            |    2.0.40607.16 | [Retirado]           |
 | 2.0 Beta 2            | 2005  | Runtime       | x86            |    2.0.50215.44 | [Retirado]           |
-| .NET Framework 2.0 RTM| 2006  | Runtime       | x86, x64       |    2.0.50727.42 | [Retirado 2016]      |
-| .NET Framework 2.0 RTM| 2007  | Runtime vista | x86, x64       |   2.0.50727.312 | [Retirado]           |
-| 2.0 SP1               | 2005  | Runtime       | x86            |  2.0.50727.1433 | [Retirado 2010]      |
-| 2.0 SP1               | 2005  | Runtime       | x64            |  2.0.50727.???? | [Retirado 2010]      |
-| .NET Framework 2.0 RTM| 2005  | Runtime       | x86, x64       |   2.0.50727.312 | [Retirado]           |
+| .NET Framework 2.0 RTM| 2005  | Runtime       | x86, x64       |    2.0.50727.42 | [Retirado 2016]      |
+| 2.0 RTM Vista Preview | 2006  | Runtime vista | x86, x64       |   2.0.50727.312 | [Retirado]           |
+| 2.0 KB928365          | 2006  | Runtime vista | x86, x64       |   2.0.50727.832 | [Retirado]           |
+| 2.0 SP1               | 2007  | Runtime       | x86            |  2.0.50727.1433 | [Retirado 2010]      |
+| 2.0 SP1 Server/vista  |       | Runtime       | x86, x64       |  2.0.50727.1434 | [Retirado]           |
+| 2.0 SP1               | 2008  | Runtime       | x64            |  2.0.50727.3053 | [Retirado 2010]      |
+| 2.0 SP1               | 2009  | Runtime       | x64            |  2.0.50727.3882 | [Retirado 2010]      |
 | .NET Framework 3.0    | 2006  | Runtime       | x86, x64       |                 | [Retirado]           |
 | .NET Framework 3.5    | 2007  | Runtime       | x86, x64       |                 | [Descargar](https://aka.ms/netfx35) |
 | .NET Framework 4.0    | 2010  | Runtime       | x86, x64       |                 | [Retirado]           |
