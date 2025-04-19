@@ -16,17 +16,24 @@ Se recomienda que todo el desarrollo de nuevos productos utilice .NET 8 o poster
 | Lanzamiento PCD       | 2000  | vista previa  | x86            | 2000.14.1812.10 | [Retirado 2000]      |
 | 1.0 Beta 1            | 2000  | Runtime       | x86            |     1.0.2204.21 | [Retirado 2001]      |
 | 1.0 Beta 2            | 2001  | Runtime       | x86            |     1.0.2914.0  | [Retirado 2002]      |
-| 1.0 RTM               | 2002  | Runtime       | x86            |     1.0.3705.0  | [Retirado 2003-2009] |
+| .NET Framework 1.0 RTM| 2002  | Runtime       | x86            |     1.0.3705.0  | [Retirado 2003-2009] |
 | 1.0 SP1               | 2002  | Runtime       | x86            |    1.0.3705.209 | [Retirado 2003]      |
 | 1.0 SP2               | 2002  | Runtime       | x86            |    1.0.3705.288 | [Retirado 2005]      |
-| 1.0 SP1               | 2002  | Runtime       | x86            |    1.0.3705.209 | [Retirado]           |
-| 1.0 SP1               | 2002  | Runtime       | x86            |    1.0.3705.209 | [Retirado]           |
-| 1.0 SP1               | 2002  | Runtime       | x86            |    1.0.3705.209 | [Retirado]           |
-| 1.0 SP1               | 2002  | Runtime       | x86            |    1.0.3705.209 | [Retirado]           |
-| 1.0 SP1               | 2002  | Runtime       | x86            |    1.0.3705.209 | [Retirado]           |
-| .NET Framework 1.0    | 2002  | Runtime       | x86            |                 | [Retirado]           |
-| .NET Framework 1.1    | 2003  | Runtime       | x86            |                 | [Retirado]           |
-| .NET Framework 2.0    | 2005  | Runtime       | x86, x64       |                 | [Retirado]           |
+| 1.0 SP3               | 2004  | Runtime       | x86            |   1.0.3705.6018 | [Retirado]           |
+| 1.1 Beta final        | 2002  | Runtime       | x86            |    1.1.4322.510 | [Retirado]           |
+| .NET Framework 1.1 RTM| 2003  | Runtime       | x86            |    1.1.4322.573 | [Retirado 2013]      |
+| 1.1 SP1               | 2004  | Runtime       | x86            |   1.1.4322.2032 | [Retirado]           |
+| 1.1 SP1               | 2005  | Runtime       | x86            |   1.1.4322.2300 | [Retirado]           |
+| 1.1 KB893251          | 2005  | Runtime       | x86            |   1.1.4322.2310 | [Retirado]           |
+| 1.1 KB927495          | 2007  | Runtime       | x86            |   1.1.4322.2407 | [Retirado]           |
+| 1.1 KB953297          | 2009  | Runtime       | x86            |   1.1.4322.2443 | [Retirado]           |
+| 2.0 Beta 1            | 2004  | Runtime       | x86            |    2.0.40607.16 | [Retirado]           |
+| 2.0 Beta 2            | 2005  | Runtime       | x86            |    2.0.50215.44 | [Retirado]           |
+| .NET Framework 2.0 RTM| 2006  | Runtime       | x86, x64       |    2.0.50727.42 | [Retirado 2016]      |
+| .NET Framework 2.0 RTM| 2007  | Runtime vista | x86, x64       |   2.0.50727.312 | [Retirado]           |
+| 2.0 SP1               | 2005  | Runtime       | x86            |  2.0.50727.1433 | [Retirado 2010]      |
+| 2.0 SP1               | 2005  | Runtime       | x64            |  2.0.50727.???? | [Retirado 2010]      |
+| .NET Framework 2.0 RTM| 2005  | Runtime       | x86, x64       |   2.0.50727.312 | [Retirado]           |
 | .NET Framework 3.0    | 2006  | Runtime       | x86, x64       |                 | [Retirado]           |
 | .NET Framework 3.5    | 2007  | Runtime       | x86, x64       |                 | [Descargar](https://aka.ms/netfx35) |
 | .NET Framework 4.0    | 2010  | Runtime       | x86, x64       |                 | [Retirado]           |
