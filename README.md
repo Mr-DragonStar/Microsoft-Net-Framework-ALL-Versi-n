@@ -30,6 +30,8 @@ Se recomienda que todo el desarrollo de nuevos productos utilice .NET 8 o poster
 | 2.0 Beta 1            | 2004  | Runtime       | x86            |    2.0.40607.16 | [Retirado 2005](https://www.betaarchive.com/database//view_release.php?uuid=c6328119-25f8-47f5-9968-1a0617ecc4e4)  |
 | 2.0 Beta 1            | 2004  | Runtime       | x86            |    2.0.40607.42 | [Retirado 2005](https://www.betaarchive.com/database//view_release.php?uuid=c6328119-25f8-47f5-9968-1a0617ecc4e4)  |
 | 2.0 Beta 2            | 2005  | Runtime       | x86            |    2.0.50215.44 | [Retirado 2006](https://www.betaarchive.com/database//view_release.php?uuid=c6328119-25f8-47f5-9968-1a0617ecc4e4)  |
+| 2.0 Beta 2 ia64       | 2005  | Runtime       | x64            |    2.0.50215.44 | [Retirado 2006](https://www.betaarchive.com/database//view_release.php?uuid=c6328119-25f8-47f5-9968-1a0617ecc4e4)  |
+| 2.0 Beta 2 x64        | 2005  | Runtime       | x64            |    2.0.50215.44 | [Retirado 2006](https://www.betaarchive.com/database//view_release.php?uuid=c6328119-25f8-47f5-9968-1a0617ecc4e4)  |
 | .NET Framework 2.0 RTM| 2005  | Runtime       | x86, x64       |    2.0.50727.42 | [Retirado 2016]      |
 | 2.0 RTM Vista Preview | 2006  | Runtime vista | x86, x64       |   2.0.50727.312 | [Retirado 2007]      |
 | 2.0 KB928365          | 2006  | Runtime vista | x86, x64       |   2.0.50727.832 | [Retirado 2009]      |
