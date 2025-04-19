@@ -13,9 +13,17 @@ Se recomienda que todo el desarrollo de nuevos productos utilice .NET 8 o poster
 
 | Versión               | Año   | Tipo          | Arquitecturas  |     Version     | Enlace Oficial       |
 |-----------------------|-------|---------------|----------------|-----------------|----------------------|
-| Lanzamiento PCD       | 2000  | vista previa  | x86            | 2000.14.1812.10 | [Retirado]           |
-| .NET Framework 1.0    | 2002  | Runtime       | x86            |                 | [Retirado]           |
-| .NET Framework 1.0    | 2002  | Runtime       | x86            |                 | [Retirado]           |
+| Lanzamiento PCD       | 2000  | vista previa  | x86            | 2000.14.1812.10 | [Retirado 2000]      |
+| 1.0 Beta 1            | 2000  | Runtime       | x86            |     1.0.2204.21 | [Retirado 2001]      |
+| 1.0 Beta 2            | 2001  | Runtime       | x86            |     1.0.2914.0  | [Retirado 2002]      |
+| 1.0 RTM               | 2002  | Runtime       | x86            |     1.0.3705.0  | [Retirado 2003-2009] |
+| 1.0 SP1               | 2002  | Runtime       | x86            |    1.0.3705.209 | [Retirado 2003]      |
+| 1.0 SP2               | 2002  | Runtime       | x86            |    1.0.3705.288 | [Retirado 2005]      |
+| 1.0 SP1               | 2002  | Runtime       | x86            |    1.0.3705.209 | [Retirado]           |
+| 1.0 SP1               | 2002  | Runtime       | x86            |    1.0.3705.209 | [Retirado]           |
+| 1.0 SP1               | 2002  | Runtime       | x86            |    1.0.3705.209 | [Retirado]           |
+| 1.0 SP1               | 2002  | Runtime       | x86            |    1.0.3705.209 | [Retirado]           |
+| 1.0 SP1               | 2002  | Runtime       | x86            |    1.0.3705.209 | [Retirado]           |
 | .NET Framework 1.0    | 2002  | Runtime       | x86            |                 | [Retirado]           |
 | .NET Framework 1.1    | 2003  | Runtime       | x86            |                 | [Retirado]           |
 | .NET Framework 2.0    | 2005  | Runtime       | x86, x64       |                 | [Retirado]           |
