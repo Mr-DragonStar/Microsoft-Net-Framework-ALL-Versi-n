@@ -71,16 +71,16 @@ Se recomienda que todo el desarrollo de nuevos productos utilice .NET 8 o poster
 | 4.5 KB2804582         | SEP 2013  | Actualizacion | x86, x64       |  4.5.50709.18408| [Retirado 2016]      |
 | 4.5 KB2833957         | OCT 2013  | Actualizacion | x86, x64       |  4.5.50709.18408| [Retirado 2016]      |
 | 4.5 KB2858728         | DIC 2013  | Actualizacion | x86, x64       |  4.5.50709.18446| [Retirado 2016]      |
-| .NET Framework 4.5.1 RTM| OCT 2013  | Lanzamiento   | x86, x64       |  4.5.50938.18408| [Retirado 2016]     |   
-| 4.5.1 KB2898869         | OCT 2013  | Actualizacion | x86, x64       |  4.5.50938.18446| [Retirado 2016]     |
-| 4.5.1 KB2911501         | MRZ 2014  | Actualizacion | x86, x64       |  4.5.50938.18487| [Retirado 2016]     |
-| 4.5.1 KB2931368         | MAY 2014  | Actualizacion | x86, x64       |  4.5.50938.18519| [Retirado 2016]     |
-| 4.5.1 KB2978121         | AGO 2014  | Actualizacion | x86, x64       |  4.5.50938.18566| [Retirado 2016]     |
-| 4.5.1 KB3002339         | OCT 2014  | Actualizacion | x86, x64       |  4.5.50938.18571| [Retirado 2016]     |
-| 4.5.1 KB3023215         | FEB 2015  | Actualizacion | x86, x64       |  4.5.50938.18579| [Retirado 2016]     |
-| 4.5.1 KB3037576         | MRZ 2015  | Actualizacion | x86, x64       |  4.5.50938.18581| [Retirado 2016]     |
-| 4.5.1 KB3048070         | APR 2015  | Actualizacion | x86, x64       |  4.5.50938.18584| [Retirado 2016]     |
-| 4.5.1 KB3063186         | JUN 2015  | Actualizacion | x86, x64       |  4.5.50938.18591| [Retirado 2016]     |
+| .NET Framework 4.5.1 RTM| OCT 2013  | Lanzamiento   | x86, x64       |  4.5.50938.18408| [Retirado 2016]     | Soporte para Windows 8.1|   
+| 4.5.1 KB2898869         | OCT 2013  | Actualizacion | x86, x64       |  4.5.50938.18446| [Retirado 2016]     | Primer parche de seguridad|
+| 4.5.1 KB2911501         | MRZ 2014  | Actualizacion | x86, x64       |  4.5.50938.18487| [Retirado 2016]     | Fix para WCF y Entity Framework|
+| 4.5.1 KB2931368         | MAY 2014  | Actualizacion | x86, x64       |  4.5.50938.18519| [Retirado 2016]     | Mejoras en CLR y ASP.NET|
+| 4.5.1 KB2978121         | AGO 2014  | Actualizacion | x86, x64       |  4.5.50938.18566| [Retirado 2016]     | Parches de seguridad críticos|
+| 4.5.1 KB3002339         | OCT 2014  | Actualizacion | x86, x64       |  4.5.50938.18571| [Retirado 2016]     | Correcciones para Windows 10 Preview|
+| 4.5.1 KB3023215         | FEB 2015  | Actualizacion | x86, x64       |  4.5.50938.18579| [Retirado 2016]     | Soporte inicial para Windows 10 RTM|
+| 4.5.1 KB3037576         | MRZ 2015  | Actualizacion | x86, x64       |  4.5.50938.18581| [Retirado 2016]     | Fix para serialización|
+| 4.5.1 KB3048070         | APR 2015  | Actualizacion | x86, x64       |  4.5.50938.18584| [Retirado 2016]     | Mejoras en WPF|
+| 4.5.1 KB3063186         | JUN 2015  | Actualizacion | x86, x64       |  4.5.50938.18591| [Retirado 2016]     | Última actualización pública|
 | .NET Framework 4.5.2 RTM| MAY 2014  | Lanzamiento   | x86, x64       |  4.5.51209.34209| [Retirado 2022]     | Soporte mejorado para Windows 8.1 |
 | 4.5.2 KB2934520         | JUN 2014  | Actualizacion | x86, x64       |  4.5.51209.34280| [Retirado 2022]     | Primer parche de seguridad|
 | 4.5.2 KB2978126         | AGO 2014  | Actualizacion | x86, x64       |  4.5.51209.34327| [Retirado 2022]     | Fix para WCF y ASP.NET|
