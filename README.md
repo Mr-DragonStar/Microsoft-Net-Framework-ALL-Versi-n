@@ -65,7 +65,12 @@ Se recomienda que todo el desarrollo de nuevos productos utilice .NET 8 o poster
 | 4.0 KB2729449         | MRZ 2013  | Actualizacion | x86, x64       |  4.0.30319.1026 | [Retirado 2016]      |
 | 4.0 KB2737019         | MAY 2013  | Actualizacion | x86, x64       |  4.0.30319.1037 | [Retirado 2016]      |
 | 4.0 KB2804576         | AGO 2013  | Actualizacion | x86, x64       |  4.0.30319.1108 | [Retirado 2016]      |
-| .NET Framework 4.5    | 2012  | Runtime       | x86, x64       |                 | [Retirado]           |
+| .NET Framework 4.5 RTM| AGO 2012  | Lanzamiento   | x86, x64       |  4.5.50709.17929| [Retirado 2016]      |
+| 4.5 KB2750147         | DIC 2012  | Actualizacion | x86, x64       |   4.5.50709.8702| [Retirado 2016]      |
+| 4.5 KB2789648         | MRZ 2013  | Actualizacion | x86, x64       |   4.5.50709.8803| [Retirado 2016]      |
+| 4.5 KB2804582         | SEP 2013  | Actualizacion | x86, x64       |  4.5.50709.18408| [Retirado 2016]      |
+| 4.5 KB2833957         | OCT 2013  | Actualizacion | x86, x64       |  4.5.50709.18408| [Retirado 2016]      |
+| 4.5 KB2858728         | DIC 2013  | Actualizacion | x86, x64       |  4.5.50709.18446| [Retirado 2016]      |
 | .NET Framework 4.6    | 2015  | Runtime       | x86, x64       |                 | [Retirado]           |
 | .NET Framework 4.7    | 2017  | Runtime       | x86, x64       |                 | [Retirado]           |
 | .NET Framework 4.8    | 2019  | Runtime       | x86, x64, ARM64|                 | [Descargar](https://aka.ms/netframework48) |
