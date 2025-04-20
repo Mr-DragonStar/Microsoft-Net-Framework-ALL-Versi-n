@@ -40,7 +40,21 @@ Se recomienda que todo el desarrollo de nuevos productos utilice .NET 8 o poster
 | 2.0 SP2 KB958481      | 2008  | Security Upd  | x86, x64       |  2.0.50727.3053 | [Retirado 2016]      |
 | 2.0 SP2               | 2009  | Runtime       | x86, x64       |  2.0.50727.3882 | [Retirado 2010]      |
 | .NET Framework 3.0    | 2006  | Runtime       | x86, x64       |                 | [Retirado]           |
-| .NET Framework 3.5    | 2007  | Runtime       | x86, x64       |                 | [Descargar](https://aka.ms/netfx35) |
+| .NET Framework 3.5 RTM| NOV 2007  | Lanzamiento   | x86, x64       |     3.5.21022.8 | [Retirado]           |
+| 3.5 SP1               | AUG 2008  | Service Pack  | x86, x64       |     3.5.30729.1 | [Retirado]           |
+| 3.5 SP1 KB951847      | OCT 2008  | Actualizacion | x86, x64       |   3.5.30729.101 | [Retirado]           |
+| 3.5 SP1 KB958484      | DEC 2008  | Actualizacion | x86, x64       |   3.5.30729.200 | [Retirado]           |
+| 3.5 SP1 KB963707      | APR 2009  | Actualizacion | x86, x64       |   3.5.30729.403 | [Retirado]           |
+| 3.5 SP1 KB967190      | JUN 2009  | Actualizacion | x86, x64       |  3.5.30729.4926 | [Retirado]           |
+| 3.5 SP1 KB971111      | OCT 2009  | Actualizacion | x86, x64       |  3.5.30729.5000 | [Retirado]           |
+| 3.5 SP1 KB982526      | MRZ 2010  | Actualizacion | x86, x64       |  3.5.30729.5426 | [Retirado]           |
+| 3.5 SP1 KB982524      | JUL 2010  | Actualizacion | x86, x64       |  3.5.30729.5448 | [Retirado]           |
+| 3.5 SP1 KB2478656     | APR 2011  | Actualizacion | x86, x64       |  3.5.30729.5570 | [Retirado]           |
+| 3.5 SP1 KB2657424     | MAY 2012  | Actualizacion | x86, x64       |  3.5.30729.6161 | [Retirado]           |
+| 3.5 SP1 KB2750147     | DEC 2012  | Actualizacion | x86, x64       |  3.5.30729.6700 | [Retirado]           |
+| 3.5 SP1 KB2861697     | OCT 2013  | Actualizacion | x86, x64       |  3.5.30729.7903 | [Retirado]           |
+| 3.5 SP1 Final         | MRZ 2021  | Actualizacion | x86, x64       |  3.5.30729.9149 | [Retirado](https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net35-sp1-offline-installer)|
+| .NET Framework 3.5    | 2008  | Runtime       | x86, x64       |                 | [Descargar](https://aka.ms/netfx35) |
 | .NET Framework 4.0    | 2010  | Runtime       | x86, x64       |                 | [Retirado]           |
 | .NET Framework 4.5    | 2012  | Runtime       | x86, x64       |                 | [Retirado]           |
 | .NET Framework 4.6    | 2015  | Runtime       | x86, x64       |                 | [Retirado]           |
