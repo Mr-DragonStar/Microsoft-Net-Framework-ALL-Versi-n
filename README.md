@@ -112,6 +112,16 @@ Se recomienda que todo el desarrollo de nuevos productos utilice .NET 8 o poster
 | 4.6.1 KB3163246         | AGO 2016  | Actualizacion | x86, x64       |  4.6.01055.16492| [Retirado 2022]     | Mejoras en ASP.NET|
 | 4.6.1 KB3188749         | OCT 2016  | Actualizacion | x86, x64       |  4.6.01055.16519| [Retirado 2022]     | Soporte para Windows 10 (v1607)|
 | 4.6.1 KB4014550         | MRZ 2017  | Actualizacion | x86, x64       |  4.6.01055.16620| [Retirado 2022]     | Última actualización pública|
+| .NET Framework 4.6.2 RTM| AGO 2016  | Lanzamiento   | x86, x64       |      4.6.01586.0| [Retirado 2022]     | Soporte para Windows 10 (v1607)|
+| 4.6.2 KB3151804         | OCT 2016  | Actualizacion | x86, x64       |    4.6.01586.212| [Retirado 2022]     | Primer parche de seguridad|
+| 4.6.2 KB3188736         | DEC 2016  | Actualizacion | x86, x64       |    4.6.01586.320| [Retirado 2022]     | Fix para WCF y ASP.NET|
+| 4.6.2 KB4014551         | MRZ 2017  | Actualizacion | x86, x64       |    4.6.01586.448| [Retirado 2022]     | Mejoras en CLR|
+| 4.6.2 KB4014590         | APR 2017  | Actualizacion | x86, x64       |    4.6.01586.542| [Retirado 2022]     | Parches de seguridad críticos|
+| 4.6.2 KB4033419         | AGO 2017  | Actualizacion | x86, x64       |    4.6.01586.878| [Retirado 2022]     | Soporte para Windows 10 (v1703)|
+| 4.6.2 KB4041080         | OCT 2017  | Actualizacion | x86, x64       |   4.6.01586.1016| [Retirado 2022]     | Fix para Entity Framework 6|
+| 4.6.2 KB4054542         | DIC 2017  | Actualizacion | x86, x64       |   4.6.01586.1152| [Retirado 2022]     | Mejoras en WPF|
+| 4.6.2 KB4073120         | FEB 2018  | Actualizacion | x86, x64       |   4.6.01586.1248| [Retirado 2022]     | Preparación para Windows 10 (v1803)|
+| 4.6.2 KB4099633         | APR 2018  | Actualizacion | x86, x64       |   4.6.01586.1351| [Retirado 2022]     | Última actualización pública|
 | .NET Framework 4.7    | 2017  | Runtime       | x86, x64       |                 | [Retirado]           |
 | .NET Framework 4.8    | 2019  | Runtime       | x86, x64, ARM64|                 | [Descargar](https://aka.ms/netframework48) |
 | .NET Core 1.0         | 2016  | Runtime       | x64, x86       |                 | [Retirado]           |
