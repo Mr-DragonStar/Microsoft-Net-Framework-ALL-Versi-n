@@ -137,7 +137,14 @@ Se recomienda que todo el desarrollo de nuevos productos utilice .NET 8 o poster
 | 4.7.1 KB4088875         | MRZ 2018  | Actualizacion | x86, x64       |   4.7.02556.1120| [Retirado 2022]     | Parches de seguridad críticos|
 | 4.7.1 KB4099635         | APR 2018  | Actualizacion | x86, x64       |   4.7.02556.1224| [Retirado 2022]     | Soporte para Windows 10 (v1803)|
 | 4.7.1 KB4338419         | JUL 2018  | Actualizacion | x86, x64       |   4.7.02556.1328| [Retirado 2022]     | Fix para Entity Framework 6|
-| 4.7.1 KB4340557         | AGO 2018  | Actualizacion | x86, x64       |   4.7.02556.1433| [Retirado 2022]     | Última actualización pública|
+| 4.7.1 KB4340557         | AUG 2018  | Actualizacion | x86, x64       |   4.7.02556.1433| [Retirado 2022]     | Última actualización pública|
+| .NET Framework 4.7.2 RTM| APR 2017  | Lanzamiento   | x86, x64       |      4.7.03056.0| [Retirado 2022]     | Soporte para Windows 10 April 2018 |
+| 4.7.2 KB4338420         | JUL 2018  | Actualizacion | x86, x64       |    4.7.03056.320| [Retirado 2022]     | Primer parche de seguridad |
+| 4.7.2 KB4340558         | AUG 2018  | Actualizacion | x86, x64       |    4.7.03056.616| [Retirado 2022]     | Fix para WCF y ASP.NET |
+| 4.7.2 KB4457919         | SEP 2018  | Actualizacion | x86, x64       |   4.7.03056.1024| [Retirado 2022]     | Mejoras en CLR |
+| 4.7.2 KB4467680         | OCT 2018  | Actualizacion | x86, x64       |   4.7.03056.1120| [Retirado 2022]     | Parches de seguridad críticos |
+| 4.7.2 KB4481480         | NOV 2018  | Actualizacion | x86, x64       |   4.7.03056.1224| [Retirado 2022]     | Soporte para Windows 10 (v1809) |
+| 4.7.2 KB4486153         | DEC 2018  | Actualizacion | x86, x64       |   4.7.03056.1328| [Retirado 2022]     | Fix para Entity Framework 6 |
 
 | .NET Framework 4.8    | 2019  | Runtime       | x86, x64, ARM64|                 | [Descargar](https://aka.ms/netframework48) |
 | .NET Core 1.0         | 2016  | Runtime       | x64, x86       |                 | [Retirado]           |
