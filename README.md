@@ -130,6 +130,14 @@ Se recomienda que todo el desarrollo de nuevos productos utilice .NET 8 o poster
 | 4.7 KB4073121           | FEB 2018  | Actualizacion | x86, x64       |   4.7.02046.1120| [Retirado 2022]     | Soporte para Windows 10 (v1803)|
 | 4.7 KB4087364           | MRZ 2018  | Actualizacion | x86, x64       |   4.7.02046.1224| [Retirado 2022]     | Fix para Entity Framework 6|
 | 4.7 KB4099634           | APR 2018  | Actualizacion | x86, x64       |   4.7.02046.1328| [Retirado 2022]     | Última actualización pública|
+| .NET Framework 4.7.1 RTM| OCT 2017  | Lanzamiento   | x86, x64       |      4.7.02556.0| [Retirado 2022]     | Soporte para Win 10 Fall Creators Upd, mejorado para .NET Standard 2.0|
+| 4.7.1 KB4034043         | NOV 2017  | Actualizacion | x86, x64       |    4.7.02556.320| [Retirado 2022]     | Primer parche de seguridad|
+| 4.7.1 KB4054856         | DEC 2017  | Actualizacion | x86, x64       |    4.7.02556.616| [Retirado 2022]     | Fix para WCF y ASP.NET Core|
+| 4.7.1 KB4074598         | FEB 2018  | Actualizacion | x86, x64       |   4.7.02556.1024| [Retirado 2022]     | Mejoras en CLR y Windows Forms|
+| 4.7.1 KB4088875         | MRZ 2018  | Actualizacion | x86, x64       |   4.7.02556.1120| [Retirado 2022]     | Parches de seguridad críticos|
+| 4.7.1 KB4099635         | APR 2018  | Actualizacion | x86, x64       |   4.7.02556.1224| [Retirado 2022]     | Soporte para Windows 10 (v1803)|
+| 4.7.1 KB4338419         | JUL 2018  | Actualizacion | x86, x64       |   4.7.02556.1328| [Retirado 2022]     | Fix para Entity Framework 6|
+| 4.7.1 KB4340557         | AGO 2018  | Actualizacion | x86, x64       |   4.7.02556.1433| [Retirado 2022]     | Última actualización pública|
 
 | .NET Framework 4.8    | 2019  | Runtime       | x86, x64, ARM64|                 | [Descargar](https://aka.ms/netframework48) |
 | .NET Core 1.0         | 2016  | Runtime       | x64, x86       |                 | [Retirado]           |
